@@ -14,6 +14,7 @@ RUN pacman -Syu --noconfirm && \
         neovim \
         nodejs-lts-iron \
         npm \
+        openssh \
         python \
         python-pip \
         ripgrep \
